@@ -1,0 +1,33 @@
+# intellij, vscode
+.idea/
+.vscode/
+.run/
+.cursor/
+
+# build artifacts, mac
+__pycache__/
+*.pyc
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.pypirc
+
+# virtual env, env vars
+venv
+.envrc
+.env
+
+
+# BridgeCTL App folders
+log/
+buildimg/*
+config/*
+scratch/*
+
+# General filetypes
+*.zip
+*.rpm
+*.pem
