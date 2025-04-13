@@ -73,8 +73,8 @@ See [official Tableau documentation](https://help.tableau.com/current/online/en-
 
 
 
-![CLI](assets/cli2.png)
+![CLI](../../wiki/assets/cli2.png)
 
 
 
-![Home](assets/home4.png)
+![Home](../../wiki/assets/home4.png)
