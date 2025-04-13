@@ -33,7 +33,8 @@ Optional Requirement:  If you would like to run bridge agents containers in Kube
 
 ---
 ### Quickstart Demo Video
-![Home](assets/bridgectl_quickstart2.gif)
+![QuickStart Video](https://github.com/crankcode/bridgectl/wiki/assets/bridgectl_quickstart2.gif)
+
 
 ---
 
